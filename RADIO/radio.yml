@@ -1,4 +1,4 @@
-checksum: 4061
+checksum: 58697
 manuallyEdited: 0
 timezoneMinutes: 0
 semver: 2.10.0
@@ -76,8 +76,8 @@ speakerPitch: 0
 speakerVolume: 22
 vBatMin: 66
 vBatMax: 84
-backlightBright: 94
-globalTimer: 94619
+backlightBright: 98
+globalTimer: 97294
 bluetoothBaudrate: 0
 bluetoothMode: OFF
 countryCode: 2
@@ -100,7 +100,7 @@ customFn:
    0:
       swtch: "ON"
       func: BACKLIGHT
-      def: "P1,1"
+      def: "P1,0"
 serialPort: 
    VCP:
       mode: CLI
